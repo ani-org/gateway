@@ -1,6 +1,6 @@
 # Agent Gateway Deployment Guide
 
-SmartAGW is the Agent Gateway software. The executable `main.bin` is located in the software directory.
+SmartAGW is the Agent Gateway software. The executable software can be found in the Releases of this repo.
 
 ## 📋 Environment Requirements
 

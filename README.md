@@ -24,8 +24,8 @@ This is the externally exposed address.
 DATA_PLANE_ADVERTISE_HOST=10.14.0.1   # Data plane advertise address
 ```
 
-3. **Address of the lookup server**
-You may use the public Search service below for testing, or deploy your own Search service (recommended for better stability).
+3. **Address of the agent discovery server**
+You may use a public agent discovery service, or deploy your own agent discovery service (recommended for better stability).
 
 ```
 HTTP_URL="http://127.0.0.1:9011"
